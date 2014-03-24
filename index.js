@@ -1,2 +1,3 @@
-var b = 0.6;
-console.log(Math.pow(b, 9));
+var x = 100;
+var b = 77;
+console.log(x - b);
