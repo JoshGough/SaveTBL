@@ -1,10 +1,7 @@
 h1 {
-    color: purple;
-    border: 4px solid gold;
+    color: blue;
 }
 
 body {
-    border: 10px dashed yellow;
-    color: blue;
-    background: pink;
+    background: red;
 }
